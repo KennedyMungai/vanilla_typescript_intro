@@ -1,3 +1,3 @@
-let myName = "Chicken Wings Are Awesome"
+let myName: string = "Chicken Wings Are Awesome"
 
 console.log(myName)
