@@ -1,5 +1,1 @@
-let myName: string = "Chicken Wings Are Awesome"
-
-console.log(myName)
-
-let re: RegExp = /\w+/g
+let stringArr: string[] = ['Chicken', 'Wings', 'Are', 'Awesome']
